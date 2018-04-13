@@ -17,8 +17,8 @@ reload (sys)
 sys.stdout = stdout
 sys.setdefaultencoding('utf8')
 
-user='frank2236@sina.com'
-pwd='unique'
+user='your Linkedin account name'
+pwd='your password'
 
 proxies={'http':'61.183.128.2:4000','https':'61.183.128.2:4000'}
 user_agent ='Mozilla/5.0 (Windows NT 6.2; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0'
